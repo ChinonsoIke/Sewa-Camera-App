@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Sewa",
+    "slug": "Sewa",
+    "ios": {
+      "bundleIdentifier": "com.noxxtechnologies.sewa",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.noxxtechnologies.sewa",
+      "versionCode": 1
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconTwo.png",
+    "splash": {
+      "image": "./assets/mysplash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#FFA500"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
